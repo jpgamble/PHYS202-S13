@@ -4,7 +4,7 @@
 % or received any unauthorized assistance
 % on this assignment/examination.
 %
-% Signed: <Jacob Gamble>
-% Dated: <4/2/13>
+% Signed: Jacob Gamble
+% Dated: 4/2/13
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
