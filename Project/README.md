@@ -4,9 +4,17 @@ In this directory I've saved all my work for
 each section (ruleset STCA, CA184, and ASEP) in individualized notebooks. 
  
 To see my finalized data, data interpretation, and work click on 
-the Notebook whose name is the Ruleset and that is followed by "-FinalProduct"
-To see the work leading up to the end result click on the Notebook whose name 
+the Notebook whose name is the Ruleset and that is followed by 
+"-FinalProduct" To see the work leading up to the end result click on the Notebook whose name 
 is the desired ruleset and is followed by "-Work"
+
+Everything else within this directory is essentially also my work leading up to the end result.
+However the ones whose names are:
+
+
+"STCA-FinalProduct", "CA184-FinalProduct",  and "ASEP-FinalProduct"
+
+That is my finalized work.
 
      -Jacob Gamble
 -
